@@ -2,7 +2,7 @@
 layout: post
 title:  "Achterwerk In De kast."
 categories: [ vlog, P&S, travel ]
-image: assets/images/micKEY.jpg
+image: assets/images/marbella.jpg
 description: "Hacienda Guaro Viejo"
 featured: false
 hidden: false

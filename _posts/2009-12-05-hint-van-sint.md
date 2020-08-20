@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sint geeft een Hint."
-categories: [ vlog, W&N, sint, pregnant ]
+categories: [ vlog, W&N, surprise, pregnant ]
 image: assets/images/denamen.jpg
 description: "tijd voor een surprise?"
 featured: false
