@@ -10,7 +10,7 @@ hidden: false
 
 ##### Hoe vertel je op je werk dat je zwanger bent...  
 ##### ...van een collega?
-</br>
+<br />
 Voordat je zwangerschap zich openbaart, je buik je verraadt of de weeen het nieuwe leven inluiden, is het wellicht verstandig om eerst je baas en collegae op de hoogte te brengen van dit geweldige nieuws.  
 Maar hoe vertel je op je werk dat je zwanger bent? 
 Neem je eerste je baas apart om het discreet te melden en verzoek je hem daarna het voor zich te houden of cc je de hele zaak in een email met de echo als bijlage?  
