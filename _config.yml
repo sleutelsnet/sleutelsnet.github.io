@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'https://twins.sleutels.net'
-site.url: 'https://twins.sleutels.net'
+
 google_analytics: 'UA-10540766-1'
 disqus: ''
 mailchimp-list: ''
