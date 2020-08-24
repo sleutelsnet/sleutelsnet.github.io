@@ -4,7 +4,8 @@ title: "Twins Sleutels"
 description: "2 is meer dan 1"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '//twins.sleutels.net/'
+baseurl: ''
+url: 'https://twins.sleutels.net'
 google_analytics: 'UA-10540766-1'
 disqus: ''
 mailchimp-list: ''
