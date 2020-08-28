@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "I go Vega in Cantabria"
+redirect_from: 
+- /home/movies/cantabria
 categories: [ vlog, P&S, travel ]
 image: assets/images/cantabria.jpg
 description: "Dia en Cantabria"

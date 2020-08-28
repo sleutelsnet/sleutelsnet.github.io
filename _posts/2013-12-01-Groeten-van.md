@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "I See Italy"
+redirect_from: 
+- /home/movies/toscana
 categories: [ vlog, P&S, travel ]
 image: assets/images/groeten.jpg
 description: "De Groeten Van."

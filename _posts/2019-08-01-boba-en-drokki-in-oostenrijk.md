@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Rodeln Am Dobratsch"
+redirect_from: 
+- /home/movies/dobratsch
 categories: [ vlog, P&S, travel ]
 image: assets/images/dobratsch.jpg
 description: "Rodeln Am Dobratsch"

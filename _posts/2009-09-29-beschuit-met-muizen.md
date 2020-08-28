@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Beschuiten met muizen verhuizen mee"
+redirect_from: 
+- /home/movies/video2
 categories: [ vlog, W&N, life lesson, poem, pregnant ]
 image: assets/images/hartecho.jpg
 description: "Over Welles en Nietes"

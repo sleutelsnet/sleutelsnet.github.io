@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Pregnant from your colleague?"
+redirect_from: 
+- /home/movies/video3
 categories: [ vlog, W&N, life lesson, how to, pregnant ]
 image: assets/images/pregnantatwork.jpg
 description: "How to tell your boss?"

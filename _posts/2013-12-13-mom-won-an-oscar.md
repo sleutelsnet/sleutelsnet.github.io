@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Mom Won an Oscar"
+redirect_from: 
+- /home/movies/oscar
 categories: [ vlog, P&S, life lesson ]
 image: assets/images/lifeplanningaward.jpg
 description: "Mom Won an Oscar"

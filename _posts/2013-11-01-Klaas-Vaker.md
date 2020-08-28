@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Klaas Vaker dan 7OMA"
+redirect_from: 
+- /home/movies/7OMA
 categories: [ efteling, P&S ]
 image: assets/images/70MA.jpg
 description: "Trip naar Kaatsheuvel waar oma zand in de ogen gestrooid krijgt."
