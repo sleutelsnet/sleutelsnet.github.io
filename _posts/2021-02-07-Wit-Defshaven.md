@@ -6,7 +6,7 @@ redirect_from:
 categories: [ vlog, P&S ]
 image: assets/images/wit_delfshaven.jpg
 description: "Let It Snow"
-featured: true
+featured: false
 hidden: false
 ---
 Het is wit in Delfshaven.
