@@ -15,4 +15,5 @@ Oma 70, Zand in de Ogen, Joki & Jet, P&S, Klaas Vaker
 
 {% include video.html url="https://player.vimeo.com/video/71959674" %}
 [VIDEO](https://vimeo.com/71959674)
-
+<br>
+(p-word: klaasvakerder) 

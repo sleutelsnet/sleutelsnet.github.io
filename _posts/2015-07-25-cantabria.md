@@ -13,3 +13,5 @@ Dia en Cantabria.
 
 {% include video.html url="https://www.youtube.com/embed/29QyWEU-utk" width="560" height="315" %}
 [VIDEO](http://www.youtube.com/watch?v=29QyWEU-utk)
+<br>
+(p-word: vegetarier) 
