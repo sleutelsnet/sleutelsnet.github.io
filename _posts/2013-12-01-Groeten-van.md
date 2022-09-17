@@ -9,7 +9,7 @@ description: "De Groeten Van."
 featured: false
 hidden: false
 ---
-De Groeten Van Pibbe en Siep.
+De Groeten Van Max.
 
 ### Italia Parte Uno  
 {% include video.html url="https://player.vimeo.com/video/91341593" %}

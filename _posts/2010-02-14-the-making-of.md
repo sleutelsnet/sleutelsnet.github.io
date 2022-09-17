@@ -9,7 +9,7 @@ hidden: false
 ---
 
 We have got 2 keys.  
-Aankondiging van de geboorte van onze tweeling Pibbe en Siep Sleutels.  
+Aankondiging van de geboorte van onze tweeling.  
 The making of.  
 
 

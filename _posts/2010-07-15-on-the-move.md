@@ -8,8 +8,8 @@ featured: false
 hidden: false
 ---
 
-Samenvatting van afgelopen jaar inclusief de eerste beelden van Pibbe & Siep, annex Welles & Nietes.  
-Summary from last year including the first motion pictures of Pibbe & Siep, annex Welles & Nietes.  
+Samenvatting van afgelopen jaar inclusief de eerste beelden van P&S, annex Welles & Nietes.  
+Summary from last year including the first motion pictures of P&S, annex Welles & Nietes.  
 
 
 {% include video.html url="https://www.youtube.com/embed/QLDGje93GPo" width="560" height="315" %}

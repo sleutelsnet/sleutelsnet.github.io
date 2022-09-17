@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 PaddeStoelen Dans Mee met Koopmans Mix voor Twee.  
-Tweeling Siep & Pibbe vieren hun tweede verjaardag met paddestoelen.  
+Tweeling P&S vieren hun tweede verjaardag met paddestoelen.  
 Geholpen door papa en Koopmans mix voor paddestoelen maken ze muffins.  
 Rood met witte stippen uit de Efteling, om te trakteren op de creche  
 ...of om zelf op te eten.  
