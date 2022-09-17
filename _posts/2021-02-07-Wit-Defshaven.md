@@ -1,4 +1,4 @@
----
+12:02 17/09/2022---
 layout: post
 title:  "Wit Delfshaven"
 redirect_from: 
@@ -15,5 +15,6 @@ Could This Be Rotterdam?
 ### Could This Be Rotterdam?  
 {% include video.html url="https://player.vimeo.com/video/512191245" %}
 [VIDEO](https://vimeo.com/512191245)
+<br>
 (p-word: Delftsblauw) 
 <br/><br/>
