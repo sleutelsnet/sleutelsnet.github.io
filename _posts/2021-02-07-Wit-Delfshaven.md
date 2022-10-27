@@ -1,4 +1,4 @@
-12:02 17/09/2022---
+---
 layout: post
 title:  "Wit Delfshaven"
 redirect_from: 
